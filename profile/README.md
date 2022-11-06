@@ -6,6 +6,6 @@
 
   Software solutions for organizational optimization
 
-  Delivered fully-tested and on time
+  Disciplined test-driven development
 
 </center>
